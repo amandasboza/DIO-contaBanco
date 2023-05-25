@@ -1,5 +1,7 @@
 # Conta | Banco DIO
 
+![image](https://github.com/amandasboza/conta-banco-dio/assets/118373959/367045bf-daf6-48bd-939a-6af48ef6585a)
+
 ## Desafio a ser entregue:
 
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
@@ -29,4 +31,4 @@
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-Projeto proposto por Gleyson Sampaio. 
+Projeto proposto por `Gleyson Sampaio`. 
